@@ -1,0 +1,11 @@
+# Ignore local vault folders and PDF files
+Cleaned_Vault_Folder/
+Messy_Test_Folder/
+*.pdf
+*.xlsx
+
+# Ignore Python caches & environment files
+__pycache__/
+*.pyc
+.env
+.venv/
